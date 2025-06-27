@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkScheduleApp", "WorkScheduleApp.csproj", "{46EFC606-A387-46F6-8F53-90A745B0B7C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46EFC606-A387-46F6-8F53-90A745B0B7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46EFC606-A387-46F6-8F53-90A745B0B7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46EFC606-A387-46F6-8F53-90A745B0B7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46EFC606-A387-46F6-8F53-90A745B0B7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3698B820-8A12-4C5E-A4FE-D37C39288B80}
+	EndGlobalSection
+EndGlobal
